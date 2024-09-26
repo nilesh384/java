@@ -1,0 +1,5 @@
+Trie data structure also called as --
+
+@ Prefix tree
+@ Digital search tree
+@ Retrieval tree
